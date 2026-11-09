@@ -1,0 +1,18 @@
+What is the purpose of your use case?
+
+To create a budgeting application that tracks income,expenses (categorised). Comparisons can be made against budgets set intially
+Be able to view spendings at a particular day of the month.
+Compare spendings with last months?
+
+
+• How is your use case personalised to you?
+
+Moved out from home, and need to manage expenses for the first time recieved from the job side of apprenticeship
+
+• What information does your use case need to collect from the user?
+
+Income, Expenses categorised, Date
+
+• What methods will you provide on the collected data?
+
+Not sure

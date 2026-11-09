@@ -1,0 +1,13 @@
+public class Volume
+{
+  public static void main(String[] args)
+  {
+    int depth = 4;
+    int width = 2;
+    int length = 6;
+
+    int Total = depth * width * length * 1000;
+
+    System.out.println("A pool of " + length + ", width " + width +  "m and depth " + depth +  " m will require " + Total + " litres of water to fill it.");
+  }
+}

@@ -1,0 +1,30 @@
+Public Glass - should be Public Class
+incorrect brackets should be curly brackets
+Method line should be public static void main(String[] args)
+Capital letters on public,static and classes causing errors
+
+Errors
+
+Main.java:1: error: class, interface, annotation type, enum, record, method or field expected
+Public Glass My Addition Programme
+
+^
+Main.java:5: error: unclosed character literal
+    System.out.println('1+1' is:" + 1 + 1 "1");
+                       ^
+Main.java:5: error: unclosed character literal
+    System.out.println('1+1' is:" + 1 + 1 "1");
+                           ^
+Main.java:5: error: unclosed string literal
+    System.out.println('1+1' is:" + 1 + 1 "1");
+
+Working code:
+
+public class MyAdditionProgramme
+{
+  public static void main( String[] args)
+  {
+    int Total = 2;
+    System.out.println("1+1 is:" + Total);
+  }
+}
